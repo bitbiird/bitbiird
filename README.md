@@ -3,7 +3,7 @@
 
 Skills: Java / .NET
 
-- 🌱 I’m currently learning Kotlin / Swift 
+- 🌱 I’m currently learning Kotlin
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bitbiird&show_icons=true&theme=dracula)
 
