@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Javier
-#### I am a future mobile developer
+#### I'm a mobile developer
 
 - 🌱 Skills: Java / Kotlin / Android SDK / Android Studio / Git
 
